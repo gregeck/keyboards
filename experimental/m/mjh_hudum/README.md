@@ -7,7 +7,7 @@ MJH Hudum keyboard.
 
 Links
 -----
-Keyboard Homepage: https://keyman.com/keyboards/mjh_hudum
+Keyboard Homepage: [https://](https://keyman.com/keyboards/mjh_hudum)
 
 Copyright
 ---------
@@ -27,3 +27,6 @@ Supported Platforms
  * Desktop devices
  * Tablet devices
 
+Notes
+-----
+U+1881 is used as a placeholder for keys that are not assigned.
